@@ -1,0 +1,10 @@
+C:\Users\SmiLeX\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\SmiLeX\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\SmiLeX\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\SmiLeX\source\repos\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\SmiLeX\source\repos\Task1\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\SmiLeX\source\repos\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\SmiLeX\source\repos\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\SmiLeX\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\SmiLeX\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\SmiLeX\source\repos\Task1\Task1\obj\Debug\Task1.pdb
